@@ -1,0 +1,15 @@
+TitleOfAll {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #000;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.Login {
+    width: 20x;
+    justify-content: space-between;
+    text-align: right;
+}
